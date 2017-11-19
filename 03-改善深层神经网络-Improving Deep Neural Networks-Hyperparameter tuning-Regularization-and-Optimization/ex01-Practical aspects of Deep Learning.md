@@ -1,3 +1,5 @@
+# Practical aspects of Deep Learning
+
 ### 1
 if you have 10,000,000 examples, how would you split the train/dev/test set?
 
